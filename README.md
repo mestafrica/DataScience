@@ -4,12 +4,19 @@
 The main goal of this course is to introduce students to data science techniques that allows them to produce production-level data products that solve problems. What this means is that we will aim to incorporate and deploy our data products into a web or mobile application for users to interact with. I hope at the end of this course, students will be able to apply core data science principles to build data-driven products and organizations.
 
 
-This is an introductory Data Science course that is mainly based on the structure of [Doing Data Science book](http://shop.oreilly.com/product/0636920028529.do) by Rachel Schutt and Cathy O'Neil. This course is intended for anyone interested in learning more about the data science process and applying it to their everyday projects or business solutions.
+This is an introductory Data Science course aim to introduce students to a breadth of concepts in Data Science. The aim is to introduce the OSEMN(**O**btain, **S**crub, **E**xplore, **M**odel and I**N**terpret) process of data science to students towards developing skills that foster data-driven thinking and products. This course is intended for anyone interested in learning more about the data science process and applying it to their everyday lives, projects or organisations.
 
-## Course Instructor
+## Session Lead
 - [David Selassie Opoku](https://www.github.com/sdopoku)
 
-## Course Outline
+## Important Resources
++ MEST Data Science Community
++ Mailing list: **data@meltwater.org**
++ Session times: **Fridays 1 - 3pm**
+
+
+
+## Session Outline [Work in Progress]
 
 - Why Data Science
 
@@ -52,30 +59,37 @@ Students interested in taking this course should be comfortable experimenting wi
 
 Mastering the Data Science process requires having a set of basic tools to process your data, test your hypothesis and extract meaning for insights.  For this course, we will show examples using several tools mainly from R and Python. Students should choose either of the tool sets and master them or feel free to use any combination as it suits them. The ball is in your court. See below for the tool set for this course:
 
-| Tools                             | Python                    | R                                                                         |
-| --------------------------------- |-------------------------- | ------------------------------------------------------------------------- |
-| IDE                               | IPython                   | RStudio                                                                   |
-| Data Processing                   |  Pandas, Scipy, Numpy     | Core libraries                                                            |
-| Machine Learning & Data Mining    | scikit-learn              | Several R libraries                                                       |
-| Data Graphics                     | Matplotlib                | ggplot2                                                                   |
-| Interactive Visualization         | Plotly                    | Shiny                                                                     |
-| Big Data                          | Apache Spark              | [Read this]                                                               |
+| Tools                             | Python                    | R                          | JavaScript                         |
+| :------------------------------- | :-----------------------: | :------------------------: | :--------------------------------: |
+| IDE                               | IPython                   | RStudio                    |  X                                 |
+| Data Processing                   |  Pandas, Scipy, Numpy     | Core libraries             |  X                                 |
+| Machine Learning & Data Mining    | scikit-learn              | Several R libraries        |  X                                 |
+| Data Graphics                     | Matplotlib                | ggplot2                    |  D3                                |
+| Interactive Visualization         | Plotly                    | Shiny                      |  D3                                |
+| Big Data                          | Hadoop, Spark, Storm      | [Read this]                |  X                                 |
+| Web  Development                  | web2py, flask             | X                          |  MeteorJS                          |
 
 [Read this]: http://www.r-bloggers.com/five-ways-to-handle-big-data-in-r
 
 
-## Assignments
-  + Homework 0: Setup Done(solutions)
-  + Homework 1: What is Data Science
-  + Homework 2: Data Processing
-  + Homework 3: Algorithms
-  + Homework 4: Data Visualization
-  + Homework 5: Data Sources
-  + Homework 6: Data Architectures
+## Hands-on [Work in Progress]
+### Labs
+  + Lab 0: Setup Done(solutions)
+  + Lab 1: What is Data Science
+  + Lab 2: Data Processing
+  + Lab 3: Algorithms
+  + Lab 4: Data Visualization
+  + Lab 5: Data Sources
+  + Lab 6: Data Architectures
 
-## Resources
+### Projects
+  + Personal Data Project
+  + Team Data Project
+
+## Resources [Ongoing]
 
 ### Books
++ Python for Data Analysis
 + [Doing Data Science](http://shop.oreilly.com/product/0636920028529.do)
 + [Think Stats](http://shop.oreilly.com/product/0636920034094.do)
 + [Data Science at the Command Line](http://datascienceatthecommandline.com/)
@@ -84,7 +98,7 @@ Mastering the Data Science process requires having a set of basic tools to proce
 + [Agile Data Science](http://shop.oreilly.com/product/0636920025054.do)
 
 ### Articles
-
++ [A Taxonomy of Data Science](http://www.dataists.com/2010/09/a-taxonomy-of-data-science/)
 + NY Times Bits post on [Looking to the Future of Data Science](http://bits.blogs.nytimes.com/2014/08/27/looking-to-the-future-of-data-science)
 + Hanna Wallach's Medium post on [Big Data, Machine Learning, and the Social Sciences](https://medium.com/@hannawallach/big-data-machine-learning-and-the-social-sciences-927a8e20460d)
 + Data Robot's post on [A Primer on Deep Learning](http://www.datarobot.com/blog/a-primer-on-deep-learning/)
