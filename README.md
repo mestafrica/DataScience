@@ -70,8 +70,8 @@ This is an introductory Data Science course aim to introduce students to a bread
 
 
 - Statistics
-  -[Intro to Descriptive Statistics](https://www.udacity.com/course/ud827)
-  -[Intro to Inferential Statistics](https://www.udacity.com/course/ud201)
+  - [Intro to Descriptive Statistics](https://www.udacity.com/course/ud827)
+  - [Intro to Inferential Statistics](https://www.udacity.com/course/ud201)
 
 
 #### Milestone 3: Team Data Product
