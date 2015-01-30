@@ -46,6 +46,12 @@ Most unix-based systems such as Ubuntu, Debian and OS X normally come install wi
   sudo pip install scipy
   ```
 
+  If you run into any errors, type the following:
+  ```
+  sudo apt-get install gfortran libopenblas-dev liblapack-dev
+  ```
+
+
 + **[Pandas](http://pandas.pydata.org/)**
 
   rich data structures and functions for working with structured data
