@@ -10,54 +10,84 @@ This is an introductory Data Science course aim to introduce students to a bread
 - [David Selassie Opoku](https://www.github.com/sdopoku)
 
 ## Important Resources
-+ MEST Data Science Community
-+ Mailing list: **data@meltwater.org**
++ Google+ MEST Data Science Community
++ Mailing list: **data[at]meltwater.org**
 + Session times: **Fridays 1 - 3pm**
 
 
 
 ## Session Outline [Work in Progress]
 
-- Why Data Science
+  These sessions will be made up of two main components:
+  - **Book discussion sessions**
+
+      The reading session will normally be during the first half hour, where we will discuss the data science book we are reading at the moment. This is to help build your qualitative and knowledge about questions and developments that are happening in the space.
+
+  - **Quantitative sessions**
+
+  This will involve working on building the quantitative/technical skillset needed to do Data Science. This will span Python tutorials, statistics, Machine Learning, Visualisation amongst other. We will be using a combination of well-prepared courses, books and material provided by leading experts and organisation in the field.
 
 
-- The Data Science Process
-  + Statistical Inference
-  + Exploratory Data Analysis
-  + Machine Learning Process
+## Outline
+
+#### Milestone 1: Core Skills
+- Outcome 1: Python installation
+  - Install Essential libraries
 
 
-- Basic Algorithms
-  + Linear Regression
-  + k Nearest Neighbours
-  + k Means
-  + Naive Bayes
-  + Logistics Regression
+- Outcome 2: Intro to Python
+    - [Learn Python with Google](https://developers.google.com/edu/python/)
 
 
-- Getting Data
-  + Public Data Sources
-  + Developer APIs
-  + Creating Data
+- Outcome 3: Intro to Data Science
+    - [Udacity Intro to Data Science Course](https://www.udacity.com/course/ud359)
 
 
-- Other Algorithms
-  + Support Vector Machines
-  + Decision Trees & Random Forests
-  + Neural Networks & Deep Learning
+- Outcome 4: Intro to Statistics
+    - [Udacity Intro to Statistics](https://www.udacity.com/course/st101)
 
 
-- Data Visualization
+- Outcome 5: Personal Project
+  - Use data science to gain insight into something of your choice
+
+
+
+#### Milestone 2: Specialisations  
+- Data Visualisation
+  -[Data Visualisation and D3.js](https://www.udacity.com/course/ud507)
+
+- Data Science Infrastructure
+  - [Intro to Hadoop and MapReduce](https://www.udacity.com/course/ud617)
+  - [Real-Time Analytics with Apache Storm](https://www.udacity.com/course/ud381)
+  - [Data Wrangling with MongoDB](https://www.udacity.com/course/ud032)
+
+
+- Machine Learning
+  - [Intro to Machine Learning](https://www.udacity.com/course/ud120)
+  - [Machine Learning: Supervised Learning](https://www.udacity.com/course/ud675)
+  - [Machine Learning: Reinforcement Learning](https://www.udacity.com/course/ud820)
+  - [Machine Learning: Unsupervised Learning](https://www.udacity.com/course/ud741)
+
+
+- Statistics
+  -[Intro to Descriptive Statistics](https://www.udacity.com/course/ud827)
+  -[Intro to Inferential Statistics](https://www.udacity.com/course/ud201)
+
+
+#### Milestone 3: Team Data Product
+- [Model Building and Validation](https://www.udacity.com/course/ud919)
+
+
 
 
 
 ## Prerequisites
 
-Students interested in taking this course should be comfortable experimenting with new ideas. A basic familiarity in using a Unix/Linux command line
+Students interested in taking this course should be comfortable or eager to ask questions, experiment with new ideas and build products. A basic familiarity in using a Unix/Linux command line is recommended.
 
 ## Data Science Toolbox
 
-Mastering the Data Science process requires having a set of basic tools to process your data, test your hypothesis and extract meaning for insights.  For this course, we will show examples using several tools mainly from R and Python. Students should choose either of the tool sets and master them or feel free to use any combination as it suits them. The ball is in your court. See below for the tool set for this course:
+Mastering the Data Science process requires having a set of basic tools to process your data, test your hypothesis and extract meaning for insights.  For this course, we will show examples primarily using Python and its libraries, and sometimes R, JavaScipt or Java for specific topics. Students who have suggestions or prefernces for other tools should feel free to use them and share with the community. The ball is in your court. See below for the tool set for this course:
 
 | Tools                             | Python                    | R                          | JavaScript                         |
 | :------------------------------- | :-----------------------: | :------------------------: | :--------------------------------: |
@@ -73,29 +103,27 @@ Mastering the Data Science process requires having a set of basic tools to proce
 
 
 ## Hands-on [Work in Progress]
-### Labs
-  + Lab 0: Setup Done(solutions)
-  + Lab 1: What is Data Science
-  + Lab 2: Data Processing
-  + Lab 3: Algorithms
-  + Lab 4: Data Visualization
-  + Lab 5: Data Sources
-  + Lab 6: Data Architectures
+### Reading List
+1. February-March: [Doing Data Science](http://shop.oreilly.com/product/0636920028529.do)
++ April: [The Field Guide to Data Science](http://www.boozallen.com/insights/2013/11/data-science-field-guide)
++ April: [Thinking With Data](http://shop.oreilly.com/product/0636920029182.do)
++ May: [Data Driven: Creaing a Data Culture](http://www.oreilly.com/data/free/data-driven.csp)
++ May-June: [Agile Data Science](http://shop.oreilly.com/product/0636920025054.do)
+
+
 
 ### Projects
   + Personal Data Project
   + Team Data Project
 
-## Resources [Ongoing]
+## Resources
+
 
 ### Books
-+ Python for Data Analysis
-+ [Doing Data Science](http://shop.oreilly.com/product/0636920028529.do)
++ [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do)
 + [Think Stats](http://shop.oreilly.com/product/0636920034094.do)
 + [Data Science at the Command Line](http://datascienceatthecommandline.com/)
-+ [Thinking With Data](http://shop.oreilly.com/product/0636920029182.do)
-+ [The Field Guide to Data Science](http://www.boozallen.com/insights/2013/11/data-science-field-guide)
-+ [Agile Data Science](http://shop.oreilly.com/product/0636920025054.do)
++ [Hadoop: The Definitive Guide](http://shop.oreilly.com/product/0636920033448.do)
 
 ### Articles
 + [A Taxonomy of Data Science](http://www.dataists.com/2010/09/a-taxonomy-of-data-science/)
