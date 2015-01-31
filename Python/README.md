@@ -73,7 +73,7 @@ Most unix-based systems such as Ubuntu, Debian and OS X normally come install wi
   Python environment for interactive and exploratory computing. It accelerates writing, testing and debugging of Python code.
 
   ```
-  sudo pip install ipython
+  sudo pip install "ipython[notebook]"
   ```
 
 + **[Scikit-learn](http://scikit-learn.org/stable/)**
