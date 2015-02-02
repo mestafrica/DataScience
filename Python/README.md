@@ -115,3 +115,9 @@ Most unix-based systems such as Ubuntu, Debian and OS X normally come install wi
   ```
   sudo pip install seaborn
   ```
+
+### Libraries Verification
+
+  + Once you have installed all the necessary libraries, clone the [Data Science repository](https://github.com/MESTghana/DataScience)
+  + Open the Python directory on your command line
+  + Run `python verify` to confirm that installed libraries meet requirements.
