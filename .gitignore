@@ -1,3 +1,7 @@
+Videos/*
+Datasets/ml-1m/*
+Datasets/names/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
