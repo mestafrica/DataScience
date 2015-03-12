@@ -1,6 +1,8 @@
 Videos/*
 Datasets/ml-1m/*
-Datasets/names/*
+Datasets/names/*q
+*_credentials.py
+Cred/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
