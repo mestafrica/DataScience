@@ -6,13 +6,14 @@ The main goal of this course is to introduce students to data science techniques
 
 This is an introductory Data Science course aim to introduce students to a breadth of concepts in Data Science. The aim is to introduce the OSEMN(**O**btain, **S**crub, **E**xplore, **M**odel and I**N**terpret) process of data science to students towards developing skills that foster data-driven thinking and products. This course is intended for anyone interested in learning more about the data science process and applying it to their everyday lives, projects or organisations.
 
-## Session Lead
+## Session Facilitator
 - [David Selassie Opoku](https://www.github.com/sdopoku)
 
 ## Important Resources
 + Google+ MEST Data Science Community
 + Mailing list: **data[at]meltwater.org**
 + Session times: **Fridays 1 - 3pm**
++ Help Sessions: **Mondays, Tuesdays & Thursdays, 6 - 7pm**
 
 
 
@@ -41,14 +42,17 @@ This is an introductory Data Science course aim to introduce students to a bread
 
 - Outcome 3: Intro to Data Science
     - [Udacity Intro to Data Science Course](https://www.udacity.com/course/ud359)
+    - Personal Project: Working through data science process in a personal project of your choice. **Extra points for MEST-related projects.**
 
 
-- Outcome 4: Intro to Statistics
+- Outcome 4: Intro to Statistics [TBD]
     - [Udacity Intro to Statistics](https://www.udacity.com/course/st101)
+    - Personal Project: Answer a question of interest using statistics and data of your choice. **Extra points for MEST-related projects.**
 
 
-- Outcome 5: Personal Project
-  - Use data science to gain insight into something of your choice
+- Outcome 5: Team Formation & Specialisation
+  - Choose one area of Specialisation
+  - Choose teams for final team project. **Must have at least one member from each specialisation.**
 
 
 
@@ -102,7 +106,7 @@ Mastering the Data Science process requires having a set of basic tools to proce
 [Read this]: http://www.r-bloggers.com/five-ways-to-handle-big-data-in-r
 
 
-## Hands-on [Work in Progress]
+## Hands-on Work
 ### Reading List
 1. February-March: [Doing Data Science](http://shop.oreilly.com/product/0636920028529.do)
 + April: [The Field Guide to Data Science](http://www.boozallen.com/insights/2013/11/data-science-field-guide)
@@ -120,10 +124,17 @@ Mastering the Data Science process requires having a set of basic tools to proce
 
 
 ### Books
-+ [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do)
-+ [Think Stats](http://shop.oreilly.com/product/0636920034094.do)
-+ [Data Science at the Command Line](http://datascienceatthecommandline.com/)
-+ [Hadoop: The Definitive Guide](http://shop.oreilly.com/product/0636920033448.do)
++ General
+  - [Mining the Social Web, 2nd Edition](http://shop.oreilly.com/product/0636920030195.do)
+  - [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do)
+  - [Data Science at the Command Line](http://datascienceatthecommandline.com/)
++ Statistics and Machine Learning
+  - [Think Stats](http://shop.oreilly.com/product/0636920034094.do)
++ Data Infrastructure
+  - [Hadoop: The Definitive Guide](http://shop.oreilly.com/product/0636920033448.do)
+  - [Advanced Analytics With Spark](http://shop.oreilly.com/product/0636920035091.do)
++ Visualisation
+  - [Mastering D3.js](https://www.packtpub.com/web-development/mastering-d3js)
 
 ### Articles
 + [A Taxonomy of Data Science](http://www.dataists.com/2010/09/a-taxonomy-of-data-science/)

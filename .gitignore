@@ -3,6 +3,8 @@ Datasets/ml-1m/*
 Datasets/names/*q
 *_credentials.py
 Cred/*
+*Master.csv
+*aadhaar.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
