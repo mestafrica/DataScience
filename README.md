@@ -45,7 +45,7 @@ This is an introductory Data Science course aim to introduce students to a bread
     - Personal Project: Working through data science process in a personal project of your choice. **Extra points for MEST-related projects.**
 
 
-- Outcome 4: Intro to Statistics [TBD]
+- Outcome 4: Intro to Statistics [SKIPPED]
     - [Udacity Intro to Statistics](https://www.udacity.com/course/st101)
     - Personal Project: Answer a question of interest using statistics and data of your choice. **Extra points for MEST-related projects.**
 
@@ -98,8 +98,8 @@ Mastering the Data Science process requires having a set of basic tools to proce
 | IDE                               | IPython                   | RStudio                    |  X                                 |
 | Data Processing                   |  Pandas, Scipy, Numpy     | Core libraries             |  X                                 |
 | Machine Learning & Data Mining    | scikit-learn              | Several R libraries        |  X                                 |
-| Data Graphics                     | Matplotlib                | ggplot2                    |  D3                                |
-| Interactive Visualization         | Plotly                    | Shiny                      |  D3                                |
+| Data Graphics                     | Matplotlib, ggplot2                | ggplot2                    |  D3                                |
+| Interactive Visualization         | Plotly                    | Shiny                      |  D3, Dimple.js                                |
 | Big Data                          | Hadoop, Spark, Storm      | [Read this]                |  X                                 |
 | Web  Development                  | web2py, flask             | X                          |  MeteorJS                          |
 
